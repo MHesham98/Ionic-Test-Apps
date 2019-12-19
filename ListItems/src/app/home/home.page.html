@@ -1,0 +1,10 @@
+<ion-button (click)='list()'>Start Listing!</ion-button>
+<ion-content>
+  <div *ngIf="show">
+    <ion-card #NgForCallBack *ngFor="let item of arrayofnumbers(100); let i = index; let last = last;">
+      <ion-card-header>
+        <ion-card-title>{{i}}</ion-card-title>
+      </ion-card-header>
+    </ion-card>
+  </div>
+</ion-content>

@@ -1,0 +1,7 @@
+{
+  "name": "ListItems",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

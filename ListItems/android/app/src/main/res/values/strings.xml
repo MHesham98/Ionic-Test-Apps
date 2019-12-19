@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ListItems</string>
+    <string name="title_activity_main">ListItems</string>
+    <string name="package_name">com.example.ionic</string>
+    <string name="custom_url_scheme">com.example.ionic</string>
+</resources>
